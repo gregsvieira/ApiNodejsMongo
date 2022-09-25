@@ -21,7 +21,7 @@ API of online library
   <a href="#lice">License</a> |&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
-<a href="https://ibb.co/tKHZRtq"><img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" /></a></p>
+<a href="https://ibb.co/tKHZRtq"><img src="https://s4.gifyu.com/images/api.gif"/></a></p>
 
 ## <a name="question">❓What is? <a/>
   
